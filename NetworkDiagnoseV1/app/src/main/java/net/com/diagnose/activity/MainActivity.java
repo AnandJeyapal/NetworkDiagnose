@@ -135,8 +135,8 @@ protected void onCreate(Bundle savedInstanceState) {
               switchContent(WebViewFragment.getInstance());
           }
       }
+     initHyperLog();
 
-     
   }
   
 }
@@ -390,4 +390,11 @@ public boolean onCreateOptionsMenu(Menu menu) {
         }
     }
 
+    /**
+     * Configures the HyperLog for the project. Ensure all logs are entered using HyperLog.d(TAG, "Data");
+     */
+    private void initHyperLog() {
+        HyperLog.initialize(this);
+        HyperLog.setLogLevel(Log.VERBOSE);
+    }
 }

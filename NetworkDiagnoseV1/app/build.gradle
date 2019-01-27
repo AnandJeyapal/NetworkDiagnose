@@ -10,10 +10,6 @@ apply plugin: 'kotlin-android-extensions'
 
 apply plugin: 'kotlin-kapt'
 
-
-
-
-
 //apply plugin: 'com.jakewharton.butterknife'
 
 android {
@@ -86,6 +82,8 @@ dependencies {
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
     implementation 'com.android.volley:volley:1.1.0'
     implementation 'com.google.code.gson:gson:2.8.0'
+
+    compile 'com.hypertrack:hyperlog:0.0.10'
 
     }
 
