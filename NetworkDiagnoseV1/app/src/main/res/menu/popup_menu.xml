@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/home_menu"
+        android:title="@string/home">
+    </item>
+    <item android:id="@+id/list_event_menu"
+        android:title="@string/event_url"></item>
+    <item android:id="@+id/setting_menu"
+        android:title="@string/setting"
+        ></item>
+    <item android:id="@+id/create_log_menu"
+        android:title="@string/create_log"
+        ></item>
+   <item android:id="@+id/open_log_menu"
+        android:title="@string/logout"
+        ></item>
+    <item android:id="@+id/exit_menu"
+        android:title="@string/exit"
+        ></item>
+
+</menu>

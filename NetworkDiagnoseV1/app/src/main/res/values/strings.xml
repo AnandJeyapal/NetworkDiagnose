@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">NetworkDiagnose</string>
+    
+        <string name="go">GO</string>
+        <string name="Overview">Overview</string>
+        <string name="URL">URL</string>
+        <string name="Method">Method</string>
+        <string name="Code">Code</string>
+        <string name="TotalTime">TotalTime</string>
+        <string name="ms">ms</string>
+        <string name="Size">Size</string>
+        <string name="Bytes">Bytes</string>
+        <string name="RequestQuery">Request Query</string>
+        <string name="Request_Header">Request Header</string>
+        <string name="Cookie">Cookie</string>
+        <string name="Request_Cookies">Request Cookies</string>
+        <string name="Request_Content">Request Content</string>
+        <string name="PostData">PostData</string>
+        <string name="Request_PostData">Request PostData</string>
+        <string name="Response_Header">Response Header</string>
+
+        <string name="Response_Cookies">Response Cookies</string>
+        <string name="Response_Content">Response Content</string>
+        <string name="RedirectURL">RedirectURL</string>
+
+        <string name="Content">Content</string>
+        <string name="home">Home</string>
+        <string name="setting">Setting</string>
+        <string name="english">English</string>
+        <string name="chinese">Chinese</string>
+        <string name="event_url">Event URL</string>
+        <string name="data_detail">Data Details</string>
+        <string name="status">Status</string>
+        <string name="bytes_time">Bytes Time</string>
+        <string name="create_log">Create Log</string>
+        <string name="open_log">Open Log</string>
+        <string name="exit">Exit</string>
+        <!-- <string name=""></string>
+         <string name=""></string>
+         <string name=""></string>
+         <string name=""></string>
+         <string name=""></string>
+         <string name=""></string>-->
+        <string name="connecting">ToyVPN is connecting...</string>
+        <string name="connected">ToyVPN is connected!</string>
+        <string name="disconnected">ToyVPN is disconnected!</string>
+        <string name="title_activity_scrolling">ScrollingActivity</string>
+        <string-array name="pref_item_UA_values">
+            <item>0</item>
+            <item>1</item>
+            <item>2</item>
+        </string-array>
+
+        <string name="pref_title_cert">重新安装证书</string>
+        <string name="pref_description_cert">必须安装MITM证书才可实现HTTPS的抓包功能</string>
+        <!-- Example settings for Notifications -->
+        <string name="pref_header_notifications">Notifications</string>
+
+        <string name="pref_title_new_message_notifications">New message notifications</string>
+
+        <string name="pref_title_ringtone">Ringtone</string>
+        <string name="pref_ringtone_silent">Silent</string>
+
+        <string name="pref_title_vibrate">Vibrate</string>
+        <string-array name="pref_item_UA">
+            <item>手机浏览器</item>
+            <item>微信环境</item>
+            <item>手Q环境</item>
+        </string-array>
+        <string name="pref_header_data_sync">Data &amp; sync</string>
+
+        <string name="pref_title_UA">环境切换</string>
+        <string name="pref_header_general">General</string>
+
+        <string name="pref_title_social_recommendations">Enable social recommendations</string>
+        <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+        <string name="pref_title_display_name">Display name</string>
+        <string name="pref_default_display_name">John Smith</string>
+
+        <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+        <string-array name="pref_example_list_titles">
+            <item>Always</item>
+            <item>When possible</item>
+            <item>Never</item>
+        </string-array>
+        <string-array name="pref_example_list_values">
+            <item>1</item>
+            <item>0</item>
+            <item>-1</item>
+        </string-array>
+        <string name="serverIPAddress">ServerIPAddress</string>
+        <string name="network_type">Network Type</string>
+        <string name="dns">DNS</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Pass word</string>
+    <string name="submit">Submit</string>
+    <string name="qq">QQ</string>
+    <string name="wechart">Wechat</string>
+    <string name="logout">Logout</string>
+    </resources>
+

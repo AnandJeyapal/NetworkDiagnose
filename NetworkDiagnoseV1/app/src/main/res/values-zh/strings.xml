@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">网络诊断</string>
+    <string name="go">转到</string>
+    <string name="Overview">概况</string>
+    <string name="URL">网址</string>
+    <string name="Method">方法</string>
+    <string name="Code">代码</string>
+    <string name="TotalTime">总时间</string>
+    <string name="ms">毫秒</string>
+    <string name="Size">大小</string>
+    <string name="Bytes">字节</string>
+    <string name="RequestQuery">请求查询</string>
+    <string name="Request_Header">请求报头</string>
+    <string name="Cookie">缓存</string>
+    <string name="Request_Cookies">请求缓存</string>
+    <string name="Request_Content">请求正文</string>
+    <string name="PostData">发布数据</string>
+    <string name="Request_PostData">请求发布数据</string>
+    <string name="Response_Header"> 响应标头 </string>
+    
+    <string name="Response_Cookies">响应缓存</string>
+    <string name="Response_Content">响应正文</string>
+    <string name="RedirectURL">跳转网址</string>
+
+    <string name="Content">正文</string>
+    <string name="home">主页</string>
+    <string name="setting">设置</string>
+    <string name="english">英语</string>
+    <string name="chinese">中文</string>
+    <string name="event_url">事件网址</string>
+    <string name="data_detail">数据细节</string>
+    <string name="status">状态</string>
+    <string name="bytes_time">字节时间</string>
+    <string name="create_log">创建日志</string>
+    <string name="open_log">打开日志</string>
+    <string name="exit">退出</string>
+   <!-- <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>-->
+    <string name="serverIPAddress">服务器地址</string>
+    <string name="network_type">网络类型</string>
+    <string name="dns">DNS</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Pass word</string>
+    <string name="submit">Submit</string>
+    <string name="qq">QQ</string>
+    <string name="wechart">Wechat</string>
+
+</resources>
+
